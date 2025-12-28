@@ -1,4 +1,4 @@
-# troll Website
+# Troll Website
 
 A fun and harmless troll website built with simple HTML, CSS, and JavaScript. This project is designed for playful experiments and lighthearted trolls. It's easy to run and requires no build tools.
 
